@@ -1,0 +1,154 @@
+Prompt,Threshold,Detections,Average Confidence,Maximum Confidence,Minimum Confidence,Variance,Inference Time
+phone,0.1,5,0.32,0.418,0.215,0.005,17.282
+phone,0.2,5,0.32,0.418,0.215,0.005,15.738
+phone,0.3,3,0.37,0.418,0.317,0.002,15.218
+phone,0.4,1,0.418,0.418,0.418,0.0,14.901
+phone,0.5,0,0.0,0.0,0.0,0.0,15.337
+phone,0.6,0,0.0,0.0,0.0,0.0,16.252
+phone,0.7,0,0.0,0.0,0.0,0.0,15.031
+phone,0.8,0,0.0,0.0,0.0,0.0,14.93
+phone,0.9,0,0.0,0.0,0.0,0.0,15.705
+mobile phone,0.1,5,0.285,0.368,0.201,0.003,15.184
+mobile phone,0.2,5,0.285,0.368,0.201,0.003,15.317
+mobile phone,0.3,2,0.343,0.368,0.318,0.001,15.399
+mobile phone,0.4,0,0.0,0.0,0.0,0.0,15.852
+mobile phone,0.5,0,0.0,0.0,0.0,0.0,15.517
+mobile phone,0.6,0,0.0,0.0,0.0,0.0,15.559
+mobile phone,0.7,0,0.0,0.0,0.0,0.0,15.515
+mobile phone,0.8,0,0.0,0.0,0.0,0.0,16.588
+mobile phone,0.9,0,0.0,0.0,0.0,0.0,15.625
+smartphone,0.1,6,0.318,0.459,0.112,0.013,15.539
+smartphone,0.2,5,0.36,0.459,0.25,0.005,15.639
+smartphone,0.3,4,0.387,0.459,0.324,0.002,15.567
+smartphone,0.4,2,0.43,0.459,0.402,0.001,15.733
+smartphone,0.5,0,0.0,0.0,0.0,0.0,8.536
+smartphone,0.6,0,0.0,0.0,0.0,0.0,15.4
+smartphone,0.7,0,0.0,0.0,0.0,0.0,17.028
+smartphone,0.8,0,0.0,0.0,0.0,0.0,16.108
+smartphone,0.9,0,0.0,0.0,0.0,0.0,15.868
+phones,0.1,6,0.401,0.524,0.136,0.017,16.178
+phones,0.2,5,0.453,0.524,0.365,0.003,15.87
+phones,0.3,5,0.453,0.524,0.365,0.003,15.833
+phones,0.4,4,0.476,0.524,0.425,0.001,16.264
+phones,0.5,1,0.524,0.524,0.524,0.0,16.165
+phones,0.6,0,0.0,0.0,0.0,0.0,15.834
+phones,0.7,0,0.0,0.0,0.0,0.0,15.925
+phones,0.8,0,0.0,0.0,0.0,0.0,15.771
+phones,0.9,0,0.0,0.0,0.0,0.0,15.667
+black mobile phone,0.1,6,0.319,0.486,0.106,0.014,15.868
+black mobile phone,0.2,5,0.362,0.486,0.242,0.006,15.6
+black mobile phone,0.3,4,0.392,0.486,0.327,0.003,15.605
+black mobile phone,0.4,1,0.486,0.486,0.486,0.0,15.558
+black mobile phone,0.5,0,0.0,0.0,0.0,0.0,15.943
+black mobile phone,0.6,0,0.0,0.0,0.0,0.0,15.522
+black mobile phone,0.7,0,0.0,0.0,0.0,0.0,15.528
+black mobile phone,0.8,0,0.0,0.0,0.0,0.0,16.388
+black mobile phone,0.9,0,0.0,0.0,0.0,0.0,15.469
+black smartphone,0.1,5,0.314,0.453,0.178,0.008,15.526
+black smartphone,0.2,4,0.348,0.453,0.278,0.004,16.115
+black smartphone,0.3,3,0.371,0.453,0.327,0.003,16.475
+black smartphone,0.4,1,0.453,0.453,0.453,0.0,18.89
+black smartphone,0.5,0,0.0,0.0,0.0,0.0,16.277
+black smartphone,0.6,0,0.0,0.0,0.0,0.0,16.077
+black smartphone,0.7,0,0.0,0.0,0.0,0.0,16.844
+black smartphone,0.8,0,0.0,0.0,0.0,0.0,15.851
+black smartphone,0.9,0,0.0,0.0,0.0,0.0,16.498
+phone showing launch soon,0.1,5,0.248,0.451,0.111,0.013,16.084
+phone showing launch soon,0.2,3,0.323,0.451,0.254,0.008,11.578
+phone showing launch soon,0.3,1,0.451,0.451,0.451,0.0,8.596
+phone showing launch soon,0.4,1,0.451,0.451,0.451,0.0,8.417
+phone showing launch soon,0.5,0,0.0,0.0,0.0,0.0,8.573
+phone showing launch soon,0.6,0,0.0,0.0,0.0,0.0,8.471
+phone showing launch soon,0.7,0,0.0,0.0,0.0,0.0,8.749
+phone showing launch soon,0.8,0,0.0,0.0,0.0,0.0,8.861
+phone showing launch soon,0.9,0,0.0,0.0,0.0,0.0,8.605
+a black mobile phone lying on the table,0.1,10,0.216,0.454,0.133,0.008,8.7
+a black mobile phone lying on the table,0.2,4,0.302,0.454,0.231,0.008,8.71
+a black mobile phone lying on the table,0.3,1,0.454,0.454,0.454,0.0,8.554
+a black mobile phone lying on the table,0.4,1,0.454,0.454,0.454,0.0,8.891
+a black mobile phone lying on the table,0.5,0,0.0,0.0,0.0,0.0,8.879
+a black mobile phone lying on the table,0.6,0,0.0,0.0,0.0,0.0,8.64
+a black mobile phone lying on the table,0.7,0,0.0,0.0,0.0,0.0,8.71
+a black mobile phone lying on the table,0.8,0,0.0,0.0,0.0,0.0,8.635
+a black mobile phone lying on the table,0.9,0,0.0,0.0,0.0,0.0,8.623
+a smartphone displaying the text launch soon,0.1,4,0.271,0.547,0.141,0.026,8.943
+a smartphone displaying the text launch soon,0.2,2,0.377,0.547,0.206,0.029,9.246
+a smartphone displaying the text launch soon,0.3,1,0.547,0.547,0.547,0.0,8.562
+a smartphone displaying the text launch soon,0.4,1,0.547,0.547,0.547,0.0,8.763
+a smartphone displaying the text launch soon,0.5,1,0.547,0.547,0.547,0.0,8.589
+a smartphone displaying the text launch soon,0.6,0,0.0,0.0,0.0,0.0,9.235
+a smartphone displaying the text launch soon,0.7,0,0.0,0.0,0.0,0.0,8.604
+a smartphone displaying the text launch soon,0.8,0,0.0,0.0,0.0,0.0,8.731
+a smartphone displaying the text launch soon,0.9,0,0.0,0.0,0.0,0.0,9.026
+a mobile phone placed on a wooden table,0.1,11,0.194,0.4,0.119,0.006,8.708
+a mobile phone placed on a wooden table,0.2,4,0.27,0.4,0.224,0.006,8.988
+a mobile phone placed on a wooden table,0.3,1,0.4,0.4,0.4,0.0,9.275
+a mobile phone placed on a wooden table,0.4,0,0.0,0.0,0.0,0.0,8.845
+a mobile phone placed on a wooden table,0.5,0,0.0,0.0,0.0,0.0,9.292
+a mobile phone placed on a wooden table,0.6,0,0.0,0.0,0.0,0.0,8.747
+a mobile phone placed on a wooden table,0.7,0,0.0,0.0,0.0,0.0,8.619
+a mobile phone placed on a wooden table,0.8,0,0.0,0.0,0.0,0.0,8.994
+a mobile phone placed on a wooden table,0.9,0,0.0,0.0,0.0,0.0,8.94
+a mobile phone showing an advertisement,0.1,12,0.182,0.486,0.1,0.011,9.304
+a mobile phone showing an advertisement,0.2,3,0.328,0.486,0.236,0.013,9.097
+a mobile phone showing an advertisement,0.3,1,0.486,0.486,0.486,0.0,8.891
+a mobile phone showing an advertisement,0.4,1,0.486,0.486,0.486,0.0,8.734
+a mobile phone showing an advertisement,0.5,0,0.0,0.0,0.0,0.0,8.92
+a mobile phone showing an advertisement,0.6,0,0.0,0.0,0.0,0.0,9.009
+a mobile phone showing an advertisement,0.7,0,0.0,0.0,0.0,0.0,8.862
+a mobile phone showing an advertisement,0.8,0,0.0,0.0,0.0,0.0,9.03
+a mobile phone showing an advertisement,0.9,0,0.0,0.0,0.0,0.0,8.947
+multiple mobile phones on a table,0.1,18,0.189,0.329,0.112,0.004,8.825
+multiple mobile phones on a table,0.2,7,0.258,0.329,0.202,0.002,8.808
+multiple mobile phones on a table,0.3,2,0.315,0.329,0.3,0.0,8.874
+multiple mobile phones on a table,0.4,0,0.0,0.0,0.0,0.0,9.243
+multiple mobile phones on a table,0.5,0,0.0,0.0,0.0,0.0,9.448
+multiple mobile phones on a table,0.6,0,0.0,0.0,0.0,0.0,9.566
+multiple mobile phones on a table,0.7,0,0.0,0.0,0.0,0.0,9.128
+multiple mobile phones on a table,0.8,0,0.0,0.0,0.0,0.0,9.465
+multiple mobile phones on a table,0.9,0,0.0,0.0,0.0,0.0,9.125
+group of mobile phones,0.1,13,0.206,0.461,0.109,0.008,8.878
+group of mobile phones,0.2,7,0.259,0.461,0.207,0.007,8.94
+group of mobile phones,0.3,1,0.461,0.461,0.461,0.0,8.723
+group of mobile phones,0.4,1,0.461,0.461,0.461,0.0,9.152
+group of mobile phones,0.5,0,0.0,0.0,0.0,0.0,9.595
+group of mobile phones,0.6,0,0.0,0.0,0.0,0.0,9.071
+group of mobile phones,0.7,0,0.0,0.0,0.0,0.0,9.053
+group of mobile phones,0.8,0,0.0,0.0,0.0,0.0,8.984
+group of mobile phones,0.9,0,0.0,0.0,0.0,0.0,8.96
+phones surrounding a launch soon poster,0.1,18,0.189,0.291,0.113,0.004,9.076
+phones surrounding a launch soon poster,0.2,7,0.256,0.291,0.209,0.001,8.913
+phones surrounding a launch soon poster,0.3,0,0.0,0.0,0.0,0.0,9.037
+phones surrounding a launch soon poster,0.4,0,0.0,0.0,0.0,0.0,8.685
+phones surrounding a launch soon poster,0.5,0,0.0,0.0,0.0,0.0,9.072
+phones surrounding a launch soon poster,0.6,0,0.0,0.0,0.0,0.0,9.004
+phones surrounding a launch soon poster,0.7,0,0.0,0.0,0.0,0.0,8.961
+phones surrounding a launch soon poster,0.8,0,0.0,0.0,0.0,0.0,8.923
+phones surrounding a launch soon poster,0.9,0,0.0,0.0,0.0,0.0,9.395
+a black smartphone placed on a table and displaying the words launch soon on its screen,0.1,5,0.235,0.494,0.125,0.019,9.047
+a black smartphone placed on a table and displaying the words launch soon on its screen,0.2,2,0.376,0.494,0.258,0.014,9.195
+a black smartphone placed on a table and displaying the words launch soon on its screen,0.3,1,0.494,0.494,0.494,0.0,8.998
+a black smartphone placed on a table and displaying the words launch soon on its screen,0.4,1,0.494,0.494,0.494,0.0,9.199
+a black smartphone placed on a table and displaying the words launch soon on its screen,0.5,0,0.0,0.0,0.0,0.0,9.438
+a black smartphone placed on a table and displaying the words launch soon on its screen,0.6,0,0.0,0.0,0.0,0.0,9.551
+a black smartphone placed on a table and displaying the words launch soon on its screen,0.7,0,0.0,0.0,0.0,0.0,9.425
+a black smartphone placed on a table and displaying the words launch soon on its screen,0.8,0,0.0,0.0,0.0,0.0,9.313
+a black smartphone placed on a table and displaying the words launch soon on its screen,0.9,0,0.0,0.0,0.0,0.0,9.476
+a group of black mobile phones placed around a poster containing the text launch soon,0.1,34,0.175,0.331,0.101,0.003,10.449
+a group of black mobile phones placed around a poster containing the text launch soon,0.2,10,0.238,0.331,0.2,0.001,9.099
+a group of black mobile phones placed around a poster containing the text launch soon,0.3,1,0.331,0.331,0.331,0.0,9.418
+a group of black mobile phones placed around a poster containing the text launch soon,0.4,0,0.0,0.0,0.0,0.0,9.551
+a group of black mobile phones placed around a poster containing the text launch soon,0.5,0,0.0,0.0,0.0,0.0,8.976
+a group of black mobile phones placed around a poster containing the text launch soon,0.6,0,0.0,0.0,0.0,0.0,9.016
+a group of black mobile phones placed around a poster containing the text launch soon,0.7,0,0.0,0.0,0.0,0.0,9.519
+a group of black mobile phones placed around a poster containing the text launch soon,0.8,0,0.0,0.0,0.0,0.0,9.269
+a group of black mobile phones placed around a poster containing the text launch soon,0.9,0,0.0,0.0,0.0,0.0,10.017
+multiple smartphones with illuminated screens lying around a rectangular poster,0.1,24,0.185,0.326,0.108,0.005,10.374
+multiple smartphones with illuminated screens lying around a rectangular poster,0.2,10,0.254,0.326,0.203,0.002,10.124
+multiple smartphones with illuminated screens lying around a rectangular poster,0.3,2,0.326,0.326,0.325,0.0,9.981
+multiple smartphones with illuminated screens lying around a rectangular poster,0.4,0,0.0,0.0,0.0,0.0,9.29
+multiple smartphones with illuminated screens lying around a rectangular poster,0.5,0,0.0,0.0,0.0,0.0,9.643
+multiple smartphones with illuminated screens lying around a rectangular poster,0.6,0,0.0,0.0,0.0,0.0,9.273
+multiple smartphones with illuminated screens lying around a rectangular poster,0.7,0,0.0,0.0,0.0,0.0,9.148
+multiple smartphones with illuminated screens lying around a rectangular poster,0.8,0,0.0,0.0,0.0,0.0,9.239
+multiple smartphones with illuminated screens lying around a rectangular poster,0.9,0,0.0,0.0,0.0,0.0,9.066
